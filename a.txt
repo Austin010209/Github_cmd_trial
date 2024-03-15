@@ -1,1 +1,4 @@
 global 1
+sde progress 1 (before ticket)
+sde progress 2 (before ticket)
+sde progress 3 (before ticket)
