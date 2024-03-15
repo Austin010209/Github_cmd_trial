@@ -4,7 +4,6 @@ sde progress 2 (before ticket)
 sde progress 3 (before ticket)
 sde change 1 (before ticket)
 sde public change 1 (after ticket)
-sde public change 2 (after ticket)
 sde public change 2.1 (after ticket)
 sde public change 3
 ticket_2 change
